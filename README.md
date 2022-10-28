@@ -1,1 +1,2 @@
-# gcloud project switcher
+# raycast-gcloud-config-switcher
+work in progress
